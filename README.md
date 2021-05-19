@@ -1,20 +1,16 @@
-# CryptoMentee
+# CryptoMentor-CryptoMentee
 
-Purpose of this project is to —
+Purpose of this project is to
 
-1. Earn the time and trust of CryptoMentors (( todo add link to opensea ))
-2. Learn crypto coding and the art of on-chain marketplace building under their counsel
-3. Write an insanely awesome oscar worthy dark comedy movie, RODIC, in a surprisingly open source manner that is governed by Ethereum smart contracts and an NFT trading game.
+- earn the time and trust of [CryptoMentors](#placeholder)
+- learn crypto coding and community building under their counsel
 
-## Why be a CryptoMentor? How?
+So that as a [CryptoMentee](#placeholder) I can 
 
-(( todo need some time to articulate this well, it is all bursting in my head rn ))
+- succeed at writing the screenplay of an [insanely awesome, oscar worthy, music rich, dark comedy movie **RODIC**](#placeholder) 
+- such that the movie writing process is controlled by Ethereum Smart Contracts and an NFT Game
 
-## Filmmaking & Software Development — Similarities, Differences, Challenges, and Solutions
+## Placeholder
 
-(( todo need some time to articulate this well, it is all bursting in my head rn ))
-
-## More about RODIC, and more
-
-(( todo filmmaking efforts, history, journey, current state, and next steps ))
+(( todo replace placeholder with actual relevant content )) 
 
