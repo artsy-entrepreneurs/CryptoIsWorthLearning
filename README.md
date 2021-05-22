@@ -25,7 +25,7 @@ I arrived at this focused long-term filmmaking goal after taking a sabatical fro
 
 CryptoMentee is a culmination of all of that. 
 
-It will be an honor if you evaluate various links, sections, and videos of this project, and join this journey as a [CryptoMentor](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1).
+It will be an honor if you evaluate various links, sections, and videos of this project, and join this focused entrepreneurial effort as an early [CryptoMentor](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1).
 
 Thanks, Sumeet. 
 
