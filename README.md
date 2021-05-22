@@ -19,11 +19,13 @@ Hi,
 
 Please do consider being a [CryptoMentor](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1) and having me as your CryptoMentee 🙏
 
-**By brief introduction, my name is Sumeet, which in Sanskrit means a good (flirty) friend. My filmmaking goal is to help 8 indie artists and entrepreneurs earn an Oscar nomination each, and do so before the end of year 2041 🎯**
+**By brief introduction, my name is Sumeet, which in Sanskrit means a good friend. My filmmaking goal is to help 8 indie artists and entrepreneurs earn an Oscar nomination each, and do so before the end of year 2041 🎯**
 
 I arrived at this focused long-term filmmaking goal after taking a sabatical from my software engineering job ([link](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1)), learning from my many entrepreneurial failures ([link](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1)), struggling with dyslexia and ADHD ([link](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1)), undergoing a difficult yet divine journey of finding myself ([link](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1)), and with some much needed help from accidental mentors ([link](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1)).
 
-CryptoMentee is a culmination of all of that. And it will be an honor if you join this journey as a [CryptoMentor](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1).
+CryptoMentee is a culmination of all of that. 
+
+It will be an honor if you evaluate various links, sections, and videos of this project, and join this journey as a [CryptoMentor](https://github.com/artsy-entrepreneurs/CryptoMentor-CryptoMentee/issues/1).
 
 Thanks, Sumeet. 
 
